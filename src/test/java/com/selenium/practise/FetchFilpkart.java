@@ -29,10 +29,6 @@ public class FetchFilpkart {
 
 	}
 
-	public void m1()
-	{
-		System.out.println("Hi");
-	}
 	public void chnagesDone()
 	{
 		System.out.println("Changes done successfully in clone");

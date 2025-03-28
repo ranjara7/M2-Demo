@@ -24,7 +24,14 @@ public class FetchFilpkart {
 		driver.get(URL);
 		Thread.sleep(2000);
 		driver.findElement(By.xpath("//input[@type='text']")).sendKeys(UN, Keys.TAB, pwd);
+		
+		
 
+	}
+
+	public void m1()
+	{
+		System.out.println("Hi");
 	}
 
 }

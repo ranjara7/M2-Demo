@@ -33,5 +33,9 @@ public class FetchFilpkart {
 	{
 		System.out.println("Hi");
 	}
+	public void chnagesDone()
+	{
+		System.out.println("Changes done successfully in clone");
+	}
 
 }
